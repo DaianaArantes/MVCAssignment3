@@ -1,0 +1,36 @@
+﻿@model KGSail.Models.MembershipType
+
+@{
+    ViewData["Title"] = "Membership Type Details - KGSail";
+}
+
+<h2>Details of @Model.MembershipTypeName</h2>
+
+<div>
+    <h4>>Details of this Membership Type</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Membership Type
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MembershipTypeName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RatioToFull)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RatioToFull)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.MembershipTypeName">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

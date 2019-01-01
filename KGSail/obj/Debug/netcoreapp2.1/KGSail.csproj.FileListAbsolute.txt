@@ -1,0 +1,72 @@
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.deps.json
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.json
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.dev.json
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfoInputs.cache
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfo.cs
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\OneDrive\Área de Trabalho\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.pdb
+E:\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.deps.json
+E:\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.json
+E:\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.dev.json
+E:\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.dll
+E:\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.pdb
+E:\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csprojAssemblyReference.cache
+E:\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csproj.CoreCompileInputs.cache
+E:\KGSail\KGSail\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfoInputs.cache
+E:\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfo.cs
+E:\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.dll
+E:\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.deps.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.dev.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfoInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfo.cs
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jerem\Desktop\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.deps.json
+C:\Users\jerem\Desktop\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.json
+C:\Users\jerem\Desktop\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.dev.json
+C:\Users\jerem\Desktop\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\jerem\Desktop\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\jerem\Desktop\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\KGSail\KGSail\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jerem\Desktop\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfo.cs
+C:\Users\jerem\Desktop\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\jerem\Desktop\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.deps.json
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.json
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.dev.json
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csprojResolveAssemblyReference.cache
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csproj.CoreCompileInputs.cache
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfoInputs.cache
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfo.cs
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\Downloads\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.deps.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.runtimeconfig.dev.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\bin\Debug\netcoreapp2.1\KGSail.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfoInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.AssemblyInfo.cs
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\obj\Debug\netcoreapp2.1\KGSail.pdb
